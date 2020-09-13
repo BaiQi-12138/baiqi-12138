@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello, my name is sun Zhixin. I am 20 years old. I am good at making all kinds of friends. I like learning very much. Learning can make me happy. Now I am studying in the Information Engineering Department of Zibo Vocational College, and I am studying Java, python, Linux, Hadoop, etc.
 <!--
 **BaiQi-12138/baiqi-12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
